@@ -1,2 +1,3 @@
-# babel-in-vscode
-Basic sets to use Babel transforming ES6 to ES5 in Visual Studio Code
+# Babel in Visual Studio Code (VSCode)
+
+This repository contains the basic setup using Babel to convert ES6 code to ES5 inside VSCode.
