@@ -1,0 +1,13 @@
+{
+  "name": "vscode_babel_es6",
+  "version": "0.0.1",
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "*",
+    "babel-preset-es2015": "*"
+  }
+}
